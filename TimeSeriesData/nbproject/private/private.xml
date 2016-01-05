@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/AbstractChart.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/IGestureListener.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/datafile/FileFilter.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartNumberAxis.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/ItemData.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/DataModel.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartDefaultPolarItemRenderer.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/GestureEventManager.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/toolkit/Toolkit.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartDateAxis.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/GestureStrokeGraph.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartXYPlot.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartPolarPlot.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartXYLineAndShapeRenderer.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/datafile/FileInformation.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/GestureRecognizer.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyChartPanel.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/GesturePoint.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/GlobalData.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/Metadata.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/ViewFrame.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/controller/Controller.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartValueAxis.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/timeSeriesDataChart/TimeSeriesDataChart.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/xyLineChart/XYLineChart.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/chart/sharedComponents/MyJFreeChartXYStepRenderer.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/gesture/GestureEvent.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/view/IAbstractChart.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/SeriesData.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/model/TimeFormat.java</file>
+            <file>file:/C:/Users/Administrator.WIN-P07DRP7E8V6/Documents/NetBeansProjects/TimeSeriesData/src/timeseriesdata/MainFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
